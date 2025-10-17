@@ -1,0 +1,17 @@
+server:
+  port: "8080"
+
+database:
+  url: ""              # Leave empty -> sqlite (swiftcart.db). Set DATABASE_URL env to use Postgres.
+
+redis:
+  addr: ""             # e.g. "localhost:6379"
+
+jwt:
+  secret: "verysecretjwtkey"
+
+pricing:
+  base_price: 20.0
+  distance_weight: 2.0
+  traffic_weight: 8.0
+  demand_weight: 5.0
