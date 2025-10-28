@@ -1,9 +1,3 @@
-Based on the structure and content of the provided Go files (`main.go`, `simulate_traffic.go`, `seed_data.go`) and the implied architecture of a system named **VOID** (likely a ride-sharing or logistics platform), here is a `README.md` focusing strictly on the **Dynamic Routing and Core Service Implementation**.
-
-This README assumes the "Dynamic Routing" feature relies on the interaction between the core API, database, cache, and WebSocket components visible in `main.go`.
-
----
-
 # 🛣️ VOID Core Service and Dynamic Routing Implementation
 
 This directory contains the core service bootstrapping and foundational components for the VOID application, which is a microservice-oriented backend that supports dynamic features like real-time routing.
