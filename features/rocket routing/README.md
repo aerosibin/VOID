@@ -1,7 +1,3 @@
-You got it. Here is the `README.md` for the "Priority 'Rocket' Routing" script, presented in the final format you requested.
-
------
-
 # 🚀 Priority “Rocket” Routing - Terminal Version
 
 This Python script is a proof-of-concept for a **smart traffic routing system**. It uses a time-series approach with a **Long Short-Term Memory (LSTM)** neural network to predict future traffic congestion and find the estimated fastest route, including a simulated **"Rocket Mode"** for high-priority trips.
