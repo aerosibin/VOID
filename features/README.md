@@ -1,6 +1,6 @@
-# 🌐 VOID: Unified AI Grocery Platform
+# 🌐 FreshAI: Unified AI Grocery Platform
 
-VOID is an end-to-end AI platform designed to maximize delivery efficiency and profitability for a grocery store by unifying **Dynamic Pricing**, **Predictive Routing**, and **Automated Sales Intelligence**.
+FreshAI is an end-to-end AI platform designed to maximize delivery efficiency and profitability for a grocery store by unifying **Dynamic Pricing**, **Predictive Routing**, and **Automated Sales Intelligence**.
 
 The system is built on a high-performance Go backend, enabling real-time communication via WebSockets and leveraging specialized Python modules for AI-driven calculations.
 
